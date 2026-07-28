@@ -2,6 +2,20 @@
 
 All notable changes to `holidays` will be documented in this file.
 
+## 2.4.0 - 2026-07-28
+
+### What's Changed
+
+* Bump actions/checkout from 6 to 7 by @dependabot[bot] in https://github.com/spatie/holidays/pull/333
+* Add Bulgarian public holidays by @piruzmand in https://github.com/spatie/holidays/pull/336
+* update new holidays in Nicaragua by @calonzolg in https://github.com/spatie/holidays/pull/337
+
+### New Contributors
+
+* @piruzmand made their first contribution in https://github.com/spatie/holidays/pull/336
+
+**Full Changelog**: https://github.com/spatie/holidays/compare/2.3.0...2.4.0
+
 ## 2.3.0 - 2026-06-08
 
 ### What's Changed
