@@ -2,6 +2,19 @@
 
 All notable changes to `holidays` will be documented in this file.
 
+## 2.5.0 - 2026-08-17
+
+### What's Changed
+
+* Update pestphp/pest requirement from ^4.0 to ^5.0 by @dependabot[bot] in https://github.com/spatie/holidays/pull/338
+* Add Hong Kong Public Holidays by @littpi in https://github.com/spatie/holidays/pull/339
+
+### New Contributors
+
+* @littpi made their first contribution in https://github.com/spatie/holidays/pull/339
+
+**Full Changelog**: https://github.com/spatie/holidays/compare/2.4.0...2.5.0
+
 ## 2.4.0 - 2026-07-28
 
 ### What's Changed
