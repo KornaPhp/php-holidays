@@ -2,6 +2,14 @@
 
 All notable changes to `holidays` will be documented in this file.
 
+## 2.5.1 - 2026-09-08
+
+### What's Changed
+
+* Fix Turkey Eid al-Adha 1971 date by @freekmurze in https://github.com/spatie/holidays/pull/341
+
+**Full Changelog**: https://github.com/spatie/holidays/compare/2.5.0...2.5.1
+
 ## 2.5.0 - 2026-08-17
 
 ### What's Changed
